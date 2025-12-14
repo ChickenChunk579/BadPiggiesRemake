@@ -1,0 +1,7915 @@
+fileFormatVersion: 2
+guid: 258d685c7ab11e844b74a63132561e0c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IngameAtlas2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2038
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd34c8662d04c9a83dd2d521910113
+      internalID: 1928888966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2033
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd89604f34c41a4bf2d4731df7813a
+      internalID: -1367406752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2037
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eaf66db51324f9fa649ab9c21285d3
+      internalID: 736952773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2031
+        width: 68
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69ab210e51c48c48df26c6f001d81c
+      internalID: 111993516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1830
+        width: 140
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12541468b3d4e6b81eca91ed93fd0b
+      internalID: 1731627527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1940
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11da25fe81274084a6a020a9491509d
+      internalID: 32603413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2032
+        width: 116
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee9f0aea8324065b3a3bcf4c10bc4d
+      internalID: -1910035318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2001
+        width: 104
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc60d62291d4c41f59483e0c96450cea
+      internalID: 1876826504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_8
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1948
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed21b31d555415bb3693260a531a59
+      internalID: 1450039905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_9
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1988
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3a68f939e54f1e8286a4f35253b28
+      internalID: 306875153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2031
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ab3e895e234c11bc6c48c98382e51
+      internalID: -1079155917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 219
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b8d9df5b4d64981b6ca7337069d02f
+      internalID: 1600969681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2003
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e365a8140c14ed4976a22cd3e086ec
+      internalID: -562907916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1946
+        width: 25
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2bc3e57b83a4d79a133193c1971dbe
+      internalID: -303643377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_14
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1815
+        width: 33
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef98702c705147c287f55a5903b03eb
+      internalID: 1556340073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_15
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1911
+        width: 20
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fe859a1a16949e085325fd94e52514
+      internalID: 253757869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_16
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1989
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187df9ce81524328bad59f32c3c55e2
+      internalID: -1928584703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1955
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a01064534c4ba08692f3705457015
+      internalID: 1796140530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1990
+        width: 116
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110803aca1fbd4c2a89ae94c46f1df00
+      internalID: 19927481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1964
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf5ba94c58ca464aa3d3d4f2a4dab6d
+      internalID: 1092739106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_20
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1874
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a520d1d5f83c460ba21de310c29ee4c
+      internalID: 516351374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1969
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64be19fc34d4e4208b93d0a61169ea78
+      internalID: -222469748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1865
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107c2bf687cf4fb8981e21f920b7ca4
+      internalID: -1936722551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_23
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1951
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd614f705fb5947c090476002cedbc5f
+      internalID: -1848216802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_24
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1950
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff08d0e53bc4426a510fa7e60a9fe1
+      internalID: -708722147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_25
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1948
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab1cb3d212ae4b9b8deebe304489cbf
+      internalID: -1306099542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_26
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1948
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a053df8c37d449191f770a543c31c0
+      internalID: -5757325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_27
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1915
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7daa555a02e4517a51b6c4de99d631
+      internalID: -1919824914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1815
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20beda7563a1947238735bb761234d6f
+      internalID: -1949362907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_29
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1865
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e5b5999da544d1bcb94d26086095d
+      internalID: 95172816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_30
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1837
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb4e23618ea4616a84a961ead61809
+      internalID: -1539212055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_31
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1907
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754f7a50a930408a944d9db1bdd3655
+      internalID: -2146060641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_32
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1914
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f384ec7d83b742528d30ade95dfa214
+      internalID: 1727202267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_33
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1898
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd489eb06b1f4cc59c554806b007581
+      internalID: 1562106070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1740
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ca9344bedbe43819a0f1ab3572affd
+      internalID: -596368500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_35
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1749
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8474a50650bd4ba5b3e37a67414be36
+      internalID: 1962945609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_36
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1798
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8ef0fef6f440ff835cbbff845f1c5
+      internalID: -304016347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_37
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1809
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573738ab53dc4dbe8ffa5d003b1af19
+      internalID: -343993192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_38
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1849
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026d20ca8699416e9624ef634343794
+      internalID: -1967356528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_39
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1846
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd06ceffb00b8475a8b683e008ffa25c
+      internalID: -1647459328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1806
+        width: 94
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888c6158ee6b421db5b50d2ae446c7b
+      internalID: 864244409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1684
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01431fe2dfc714696b1e7801ffbff3f1
+      internalID: -1856986356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_42
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1740
+        width: 42
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c53c58f63741f7871ad3a16bf64a8
+      internalID: -921024527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_43
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1603
+        width: 33
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9541db5edf1ee46caa61172a7969a4a6
+      internalID: 241199133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_44
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1737
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff3993fd95b49019ed8d0077b43223
+      internalID: -21599333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_45
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1776
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de0229724b13415aad8f5fa584ad21b
+      internalID: 1864447804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_46
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1779
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1917567e594844e598449d3af24ca06a
+      internalID: 1181067010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 277
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba105a3dbd824ca6b13166e9cc203a7
+      internalID: -872111637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1791
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbf4da9e4984b878df2ae1c3696cbd
+      internalID: 2124560727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1791
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413d2ccc5c25472c9141d75dec80833
+      internalID: 1603354656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1791
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd46ee625ed1436f9842c66d0ab2515
+      internalID: 2047908054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_51
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1791
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fdad33c95b44fbbadf42a287969e47
+      internalID: 455207995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_52
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1709
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b925ba976d4fac8d2790f5c6dcbe7
+      internalID: -953062695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_53
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1709
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b846a2949df142b19cbc5f94cf9894f
+      internalID: 1837537328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1782
+        width: 87
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2430f2066cd4005beea7f34586ff44
+      internalID: 945512236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_55
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1663
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3281e871c2414098e31dcc9d698a1
+      internalID: 1198716931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_56
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1615
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeb2aafb7155440bbad3f95a20ae582
+      internalID: -1990613143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_57
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1705
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cdd2d915bc449a3bf0966e13460f50
+      internalID: 494227301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_58
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1624
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c915afb96f64124bbdf5169a3c4153
+      internalID: -998553078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_59
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1625
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fa22535c30f4670a7c887e40fe3e82
+      internalID: 1377628093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_60
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a1bdd7ebb1e4b96863fa0503875872
+      internalID: -1245679195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_61
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1718
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1cbcf3c48df45d2b4c94faf7a6b7f5
+      internalID: -1266191541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_62
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1666
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085c96b69ece4da1b12b8ef0169e1f7
+      internalID: 1871875952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1474
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea41e0eb0464a19a47e811cd675d80
+      internalID: 126777050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1474
+        width: 41
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bea2eeef59c442eb1da2f1baac0975
+      internalID: 1646427625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_65
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1554
+        width: 119
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e53b24d0d946409ea3675bfa68613
+      internalID: -1924349810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_66
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1615
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3f8f2837c74ef684fdddcbb18e8d8
+      internalID: 1622351799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_67
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1602
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44e03b3e2a1f4a34a260a3c262af6aa
+      internalID: -1031002854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_68
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1581
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa4e05f329148cf9d54c34bc23de25
+      internalID: 1747691300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_69
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1632
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d825f0376a4447a1e6877a544def0
+      internalID: -1621171224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_70
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1652
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dcdc681f5fd40d9ab77cda999172cd
+      internalID: -1614125623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_71
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1609
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271b73e4503c4e79849e4d95f20d580
+      internalID: -2068463925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1579
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a76b297e7bc4153ab95317a4b4cbec
+      internalID: -907310537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_73
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1575
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa8968c550f48579fcd7f57b480045
+      internalID: -1106746221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_74
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1490
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a20eac92314cb2b5136b424633509
+      internalID: 797873415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_75
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1579
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ce70b0945644c5b436027909651e4
+      internalID: -1776055661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_76
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1499
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6467d4d846c438e81bb7688274268c
+      internalID: 711315634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_77
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1299
+        width: 31
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09640f3e3587e4fd09defaf92a8bd60d
+      internalID: 1698682345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_78
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1575
+        width: 107
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4988e4e6c3e0642eb97486dff19507ad
+      internalID: 410111096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_79
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1506
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762680db916dd4e5aa5e41d948c2239c
+      internalID: -1777134892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_80
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1567
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feba61b51d024d85847f2c6dfc35ea3
+      internalID: 1629069761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_81
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1589
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82f2a9d2907046938676165ea4b177b
+      internalID: -1346895832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_82
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1552
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8894d431591404aadbb2dd2c84adda
+      internalID: 1385767709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_83
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1503
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4106b72380c429eafa57b69fd88c15
+      internalID: -399859780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_84
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1554
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9dfb6ddc3b047418ab8e373d8d474a
+      internalID: -43575812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_85
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1559
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc37c62372b840639fd5c14e810530f
+      internalID: -419661773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_86
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1453
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264996d08be3b46f4b5aa1e3601cd109
+      internalID: -1158829552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_87
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1518
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f000fe37fa93344b79d2b999b1619993
+      internalID: -1609454092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_88
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1524
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b54eee15dc41728443d81fcc2179b
+      internalID: 972148830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1542
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a358bb5c1946af80a2ab64982318f
+      internalID: -170260328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_90
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1425
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5c814c2fa648afae5ee653451d7c2
+      internalID: -1945857715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_91
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1490
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e706c5c39d9564a58ad593fd3ae56663
+      internalID: 1533416956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_92
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1513
+        width: 106
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f32d43c922d4928954d7a6fe25b340
+      internalID: 210825675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_93
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1492
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aba59af2aacd408f8998873d56f2b79
+      internalID: -2022041140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_94
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1495
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1344e9e8b2490d97db40a932f8298
+      internalID: 1893930941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_95
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1532
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d91f5106154832bc28b118a371ffe
+      internalID: -1263296652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_96
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1523
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8897f9beb4db04c11a292f68f1609a81
+      internalID: 577199153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4279936796a4292a324e35c782836f
+      internalID: 1281543044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_98
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1459
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0587ffdaa6940068e5a273d60b7d31
+      internalID: 860886579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 264
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac7c8acd66c420c9de6713ef575111
+      internalID: -523367571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_100
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1381
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0939e97b11bf048bd8f6477ef6d377b4
+      internalID: -1054506961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_101
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1365
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbba276da1a64932a673d208516b6bb
+      internalID: 84591416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_102
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1365
+        width: 45
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54428f71e52c4405682029426fb5b810
+      internalID: -1846330457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_103
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1374
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344bf956acb4a4cccb29bef1081ff899
+      internalID: 1406669297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_104
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1402
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6477ffa038e724236946169b756c4717
+      internalID: 619476836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_105
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1398
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c1e17f6238464786934009e483b75
+      internalID: -2014589875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_106
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1348
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eab56cb629a4e62aef925110243071
+      internalID: 275865800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_107
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1418
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2a23a5d15840c78b3996d80cf8e56
+      internalID: 1912379157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_108
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1394
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64974707a87614d7191043d073dbaf8d
+      internalID: 446856662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_109
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1438
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf955ece89fb8489aa71866e4f440327
+      internalID: 1590045410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_110
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1295
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b7e0da6d67a434292b3691ac0889f5
+      internalID: -1939379270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_111
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1098
+        width: 44
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e9be85411834edf8c3094febd3e288
+      internalID: 1643479257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_112
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1354
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a741c8faba7ff495eb2b98b0de79cb5c
+      internalID: 488234450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_113
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1290
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b286a2a92e49038bde7f6d5753654
+      internalID: 1913611224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_114
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1357
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc7ea57e8378490bb9cb6298f8dcbc5
+      internalID: -858543160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_115
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1339
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025da7eb457064aa28bc5ecb7b7a50fc
+      internalID: 2072425241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1326
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5157424da0140bda2f4fd550b57fa7
+      internalID: -511093532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_117
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1381
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f0fe66df2a84d37857f8236c682400
+      internalID: 1215690136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_118
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1234
+        width: 110
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673ec569071544dacb734e01358597e6
+      internalID: 247734609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_119
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ab5bb1a41ef4a4ab6f44b46af92b5a
+      internalID: 1879562412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_120
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1240
+        width: 46
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d7bf142bbf4a5bafbb5205b2afe12
+      internalID: 2020406500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_121
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1249
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cc5df2ec14540faa36fc3a5deb0b0c
+      internalID: 161306594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_122
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1226
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ce9991677b476aa0c0fbade876952
+      internalID: 596740984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_123
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1255
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b55714dbcb3e456ba5564a1bbcaf9cc
+      internalID: -899882270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_124
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1262
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb3a0e4e8cb482c828a687aab1f7b1
+      internalID: 1598738237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_125
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1325
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eb0d93118164d308dc7bc0ab86eb70
+      internalID: 1592453906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_126
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1325
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2681021069d4488a96f627dae0f2a70
+      internalID: -1487598093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_127
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1163
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15681094503324421b6e5b19bed7f22f
+      internalID: -1945283810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_128
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 876
+        width: 34
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180716fb1c4b4e3981f82c4858f025e
+      internalID: 1240333296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_129
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1181
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a0f46e50c9544e9b3b85d63b46fce8
+      internalID: 2132454667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_130
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1279
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5520c06c304c74c19a89b81a1029ce18
+      internalID: 1044462758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_131
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1262
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c2aa63fe7646c89857650143d85d3
+      internalID: -730256578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_132
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1272
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5ac58b444284071b5050c9a4617141
+      internalID: 221416735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_133
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1262
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d831622cbad465fbf4023bb48fb2d8
+      internalID: -871651445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_134
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1262
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3191e847928f4ac6a1191ed5bd3a96a
+      internalID: -1634747760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_135
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1262
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c05001c7844ee6ac21a344e1adede
+      internalID: -811488667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_136
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1262
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc895c6264d50471db1224f76e225ff0
+      internalID: -14615483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_137
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1263
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504ee731a8242437d86edc782ce46c65
+      internalID: -400854760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_138
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1262
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b388239368458a901a56b512ad4bc
+      internalID: -997594848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_139
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1263
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1b64601f4c4b8b98bf4246ee6a9ad
+      internalID: -792362024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_140
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1262
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f661cf1caf924872b0cf00aa6da7984
+      internalID: 171644600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_141
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1124
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f051d109210405fa75f46a0fe04008
+      internalID: 510824613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_142
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1162
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3232d66da714047b04ac456434e20b
+      internalID: 92738267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_143
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1237
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d160c4ec844b80abac6caf8549f0f
+      internalID: 1640953496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_144
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1230
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40067a8261b641c48a0e7496ddb0ebd
+      internalID: -1913294333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_145
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1217
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf177aad1bf044d89b0e9b402a950c7
+      internalID: 1836313535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_146
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1217
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f56cdd8842d547cdbcd94c14e403504
+      internalID: 751584031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1047
+        width: 174
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48d62c75798748b7965c6ec690e951e
+      internalID: 9225484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1170
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de95524302b433291d5df1448bf907
+      internalID: -2033334882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_149
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1206
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9ab9a616f742c1a81afbdef128d5e
+      internalID: 2111816376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_150
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1163
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf6cc201854489da0d618459514afb
+      internalID: 1168395049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_151
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1133
+        width: 158
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a615b5c3215a4424aa8e5003a245589
+      internalID: 1895576896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_152
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1098
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca34ddb8991d4cbc9609bdbe319b266
+      internalID: 386825334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_153
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1162
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97001fdf1e44eeeab8b05032fd16d3
+      internalID: -1901004557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_154
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1162
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4fe626ec64743b1b2105052a02996c
+      internalID: 1512873797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_155
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1162
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ffeb52b18a45f8bca488308561dec
+      internalID: -850064653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_156
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1172
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7343bdd21f14e71b63f82a33151ae5
+      internalID: -427089253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_157
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1162
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db7c074d054c43acb2f66df775b1c9b
+      internalID: 1430127923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_158
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1202
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348378b065af4408a9ddf0f1c592e15
+      internalID: -1242637715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_159
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1162
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3931420f004384ed4b80a58fd29a98f3
+      internalID: 1881901086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_160
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1207
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a928c141d048ea8cfa277ef3efea0
+      internalID: -1660519318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_161
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1162
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6262b88e83f02491b9837a2962892bef
+      internalID: 479643943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_162
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1162
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3861ee3f2a3094e7aa817770fd3a47c8
+      internalID: -1548986448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_163
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1162
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6773530ebe94dbea6b5dd06c5bc9d1
+      internalID: 1943928796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_164
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1162
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779a2039352d4de1b79f3f5a5fd30f4
+      internalID: 1229237133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_165
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1061
+        width: 103
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b182d7ee31d44e696245b36e18af32
+      internalID: 1578969021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_166
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1173
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df8bf197f0254ae08f8d93dd563edda
+      internalID: 815958817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_167
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1179
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f43ff7aba244dfa9d391a1724ded4
+      internalID: -1620987472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_168
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1143
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542c29fd8f574d239a258415f58ba19
+      internalID: -435915368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_169
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1047
+        width: 26
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c45dba260634d36a7d264a220b2add
+      internalID: 1058785293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_170
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1040
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52e7e0d1a3741bda7e6b8adbcda38e
+      internalID: 2079643278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_171
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1072
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e8ce3dcbde40d08896d31a750019f
+      internalID: -1053243224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_172
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1071
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7313be565d47478f026817e0e50f0
+      internalID: 591727223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_173
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1072
+        width: 114
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75bfab884a7a4e339d6fb67c3170b25
+      internalID: -1062881916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_174
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1072
+        width: 106
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a88a601bc3e45eab47b68b73e3965a
+      internalID: -1581245939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_175
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1071
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e59b6f30a3284d5098b678eca14f971
+      internalID: 304963592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_176
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1071
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a18386e4bf431eaa68783bad5758a
+      internalID: -200292240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_177
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1071
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae220c07646fd43a7914640dffea5664
+      internalID: 24391064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_178
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1071
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff90fb9a93024baeab85e717181c51e
+      internalID: -1186045812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_179
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1071
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235197c56321049668c9990fc194ab1a
+      internalID: 2032230302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_180
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1071
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5237e91033257414ead78b32bb36f179
+      internalID: 577749775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_181
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1101
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593357461b4244d7cb1fd8a961a90f47
+      internalID: 1803070202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_182
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd1d3058de74dd596e84b025de9ce5
+      internalID: -570014390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_183
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a63b8a8f604e768218210e0a3cf44
+      internalID: 1234937005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_184
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da1e45b177b4b2e8ed59d6febaad47
+      internalID: -1833804894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_185
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1109
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd9cc788f49547028a31b3b54d24036
+      internalID: 339937932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_186
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1031
+        width: 135
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62b77574658a4ada95d714449a42122
+      internalID: 420259683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_187
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 999
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cb8e1b4f6de418bb72eda519036c0c
+      internalID: 433621651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_188
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1071
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd7b34b3b5144fc89ca20d1d4c737d6
+      internalID: 1175561500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_189
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1092
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768d43b15a8f54d7385ae377fec1d604
+      internalID: -296519890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_190
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1094
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb4a9f4b2de242919a65d96248d888d
+      internalID: 290952160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_191
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1059
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e722108f3c6ca49bb8c26e24b8c99ac6
+      internalID: 1105973993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_192
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1048
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f74c77f6ef45a482c118ca29e1859
+      internalID: 442883993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_193
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 986
+        width: 122
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a40c0bc1654274b78e9590c7b9f3e
+      internalID: -25865341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_194
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 986
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ba1edb184e4259a3c8939dc527b75
+      internalID: 1157141255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_195
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 986
+        width: 139
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8109906bca942c190978103477d42d
+      internalID: -2044866070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_196
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 987
+        width: 114
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb86cba7d8d66459b957c1e3fe39b967
+      internalID: 1301917515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_197
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 986
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2560844201cd4645b3f63757cdfb993
+      internalID: -679720437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_198
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 986
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db408e9ce6bd24b2ea330fecf4f4f10a
+      internalID: 866314542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_199
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 986
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe9bfd10c29402696911a569d7ee81
+      internalID: -800803713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 722
+        width: 244
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8928d2d5175449c59fc1ac7287ec11c
+      internalID: 511061319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_201
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 966
+        width: 117
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790c45601c1247c7ba910ed6d0a4055
+      internalID: -274026478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_202
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1028
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49db76fb0c07470ea5d2b6e87198c5c
+      internalID: -1491050073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_203
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1034
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2642eed6070834eebafbbf1676126194
+      internalID: 194746738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_204
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1037
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2adabcc424334c298edca9ce3a2b0c0
+      internalID: -2042235792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_205
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 987
+        width: 111
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e37bebf32742f9acdff404a2d001d
+      internalID: -839959954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_206
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1026
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b9d131b57c4e0c9efc9cd670b86a1
+      internalID: 1054926873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_207
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1032
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb37701df04314cc785578cc09965b12
+      internalID: 1787827632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_208
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 986
+        width: 8
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3c5b297fce4e04a963543f26a7d14
+      internalID: 125781118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_209
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 986
+        width: 8
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87721ad69f0443baa4de2520d6c9391
+      internalID: 1054414613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_210
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 891
+        width: 128
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae2f2d7de2b477798c0282e3fb632e
+      internalID: 2049033719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_211
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1011
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e68670cafab47608d22290c3ad2248
+      internalID: -365499691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_212
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1011
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2bbce16d284babbfc653a3d282e78
+      internalID: 1829018631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_213
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1028
+        width: 116
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947748f31e4eb4643b7b2a5e60578839
+      internalID: -193628531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_214
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1011
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf21fa02d346446e69f3565e89b387e2
+      internalID: 30534455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_215
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 877
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6d979e3d9a44b7a960a1d8eef9aed0
+      internalID: 1545355802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_216
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 996
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d2fe305f464bfa9789ae9b4c167dd
+      internalID: -1125959357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_217
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 998
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27468a4f876b14035b66ab431bc0c037
+      internalID: 1131908226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_218
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 986
+        width: 101
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddeddab8f47f4b60a20f588edd68c9a
+      internalID: 838143690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_219
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 999
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f13a478655e748b8b1bc79af8a2bf33
+      internalID: 923530882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_220
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 989
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d91f3fe8264b4fe180a2de76e767a39
+      internalID: -396896581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_221
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 874
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d572de981df41619c307b7d4798a99
+      internalID: -864721863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_222
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 986
+        width: 116
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9503de9b0da3742eab452a35354692cd
+      internalID: 1133860412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_223
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 722
+        width: 117
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011414a5e118346f6b25d86792ed0bcf
+      internalID: -389977879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_224
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 876
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adf6c47cfebf4617b4b685fcaca4fb7
+      internalID: 1214940814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_225
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 876
+        width: 161
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c5bb3e5a42f45fdba000567c9a67fa
+      internalID: -1564522783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_226
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 876
+        width: 145
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f4fe06104941f98a5b9cbfce1b74b
+      internalID: 1002480557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_227
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 876
+        width: 163
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef4fd0ebb30a487a8849f0948a4cc7b
+      internalID: 1159126549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_228
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 876
+        width: 163
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60287510fbe1940dda13cf3bdb0624aa
+      internalID: -401790099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_229
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 876
+        width: 163
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c181841c20c49421bae3bc1df5a1becc
+      internalID: 1731784646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_230
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 939
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0e7f1206434be0968ddc57574540f
+      internalID: -2022847199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_231
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 939
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be621f0b74434738a8e1a7ea22c6b48
+      internalID: -1102106748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_232
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 939
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0998a68a6f447489089735076716c0
+      internalID: 661749594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_233
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 709
+        width: 120
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790afb8b0c2914545bbd7e74d30e90c8
+      internalID: -1579145937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_234
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 876
+        width: 205
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be3dd26024a4f17bf4e9be757d238d
+      internalID: -1840533794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_235
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 749
+        width: 180
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307cd7abb315d47d89cb84be08ae3c42
+      internalID: 1287632996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_236
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 749
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8951c680e8e47868a71da1580fca9e
+      internalID: 1184653510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_237
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 749
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb36123862f4909aa88c612211884e
+      internalID: -650371445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_238
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 749
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101dd447d240b4705830c7855f9b36e5
+      internalID: -155022060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_239
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 847
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4361740f0644bf822a9935d17f37e
+      internalID: 320617916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_240
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 847
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaa6dd07e5654026a86549d809dd118
+      internalID: 501310114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_241
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 749
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d67e61e72f4604bf8316f42748a40
+      internalID: -916129082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_242
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 749
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc0c0fecbd7492e88d0d30fab9aa47
+      internalID: -1476132863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_243
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 749
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c4648b160640a082c31c3354e2589
+      internalID: 6643809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_244
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 749
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a8884e13b63461da684c4e685ebbd0
+      internalID: -581068647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_245
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 749
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242942345e6d3464b9219e1aa85c7a7e
+      internalID: -1373512446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_246
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 749
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1783b5aee134e8da30da358a6b9e50
+      internalID: -1669032318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_247
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 749
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433b5cea997c4099905c5e80975921e
+      internalID: 2039298791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_248
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 750
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff7d04a1dd0d48a4926f8a913cbc8f4
+      internalID: -1966489113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_249
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 817
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adb6485113214467a9f81d70725cbb3
+      internalID: -539934668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_250
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 749
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dee9db7d0ed4f9d93b95c03bc8fa5f
+      internalID: 1777388025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_251
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 749
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f4fd12594c74c878cf695cf0eacbf8
+      internalID: 61101795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_252
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 312
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc39844eb7ac344f094bc31404bf46ef
+      internalID: 866727154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_253
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 704
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62aceae414064d89ad3274a533ffd04
+      internalID: 1797864664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_254
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 649
+        width: 236
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ffb169a7f59454fa5ccb023acff9d7
+      internalID: 437603719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_255
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 704
+        width: 148
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a368a3c02464b66b94df7df23800ba
+      internalID: -645353239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_256
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 704
+        width: 119
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd205995e1f64ea8959b048158bf935
+      internalID: 863608484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_257
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 705
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3424d11dd749baae45015111e5a79
+      internalID: 771791716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_258
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 653
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61424092cc2e49d6962bd5c3645cce1
+      internalID: -1860618138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_259
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 649
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52b0c940afb4c9ab1d2e4b0a79cfc1
+      internalID: 551934237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_260
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 687
+        width: 187
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1c20efa87b74c3f9b171c81d6d6b7f
+      internalID: -876057367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_261
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 687
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00215a5d3d85e4fe1a95b7747a9efad9
+      internalID: 1133427001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_262
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 687
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13828e6d666aa43b2af37f626c223f69
+      internalID: -1873810273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_263
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 649
+        width: 172
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f5bff0bd4442e9a7d99cf16d7cd85
+      internalID: -1489839434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_264
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 649
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b6a72a40d14bc88dcf31bd6f2cb13
+      internalID: -1459192893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_265
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 618
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c168e85916644dda9b8119ca211dba3
+      internalID: -1364251079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_266
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 475
+        width: 140
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7913894c42af34790be64f38a87a85f4
+      internalID: 419985757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_267
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 649
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af304daa78141768979d435ae0cb91
+      internalID: 2097668311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_268
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 650
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21df30612a554ac09e05e37ed2d5f5a
+      internalID: -417715536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_269
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 649
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67011473106804dfd87c8f753f76eb90
+      internalID: 1058800149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_270
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 648
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b876ed202d840b889a531146d78242
+      internalID: 1386010009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_271
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 648
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fd5f0ab753d464b97ad0255906877c
+      internalID: -1311870875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_272
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 649
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67cbb37ebf77407b9974046539807f7
+      internalID: 1516075512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_273
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 648
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a9d75001264350b4897b4037ec997
+      internalID: 303760218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_274
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 648
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052b93cb114b14517aa1c08b30781df5
+      internalID: -1398302431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_275
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 648
+        width: 418
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a032b4b2c14b4a8bacad8b623f052
+      internalID: 1419677478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_276
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 483
+        width: 148
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041c80176e74402ab351c886f6c21cd
+      internalID: 1608318816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_277
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 604
+        width: 173
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36024ad4887da495faef5bde6f54a261
+      internalID: -414523126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_278
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 588
+        width: 125
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa39a56c42a534d6bb95c1d51f349b91
+      internalID: -230644608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_279
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 588
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3efcfea766f4c9c8e262989f930298
+      internalID: -2141093146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_280
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 474
+        width: 148
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7177fc0272842fa8f3ef3c1ab01502
+      internalID: -1981926799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_281
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 629
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea0498010494b8abbee5bea75ad8a7
+      internalID: -1383815788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_282
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 580
+        width: 170
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c756e80153a1b494eb7cb03e955341cb
+      internalID: 1801811846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_283
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 579
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c764049df41c479abd4f1e21139dcac
+      internalID: -1299706282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_284
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 610
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3c33dadc84e49918d8385c0a55b3ab
+      internalID: 1977345795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_285
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 590
+        width: 216
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94474df18fc48a394df4f8dffccc40
+      internalID: -896504527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_286
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 593
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8d98d2e37cf40e4a8baf304844acde
+      internalID: -1025733825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_287
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 601
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a90cecda8e24f7aa0a4c5de627fefb
+      internalID: 1620522496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_288
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 474
+        width: 156
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e121959533674d7e9ec09b0fb166b39
+      internalID: 1539305202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_289
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 619
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebef0da23b344d6cb10cbbd4f21af9e
+      internalID: -482883868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_290
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 611
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e13088f4fe4de1a76b83698f5277a
+      internalID: 179522762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_291
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 443
+        width: 57
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2123d073be7084d159af9b0444529a28
+      internalID: -1454745732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_292
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 607
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68c14a5a36f245e6855f5c9617212e3
+      internalID: -1444944002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_293
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 474
+        width: 202
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f946d4f35384a3a9968fe8243e0ca2
+      internalID: -503918415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_294
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 589
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f4ccf5b7c14dd0b247bb9d8c09847
+      internalID: -1996974386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_295
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 474
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42bdc5e6583146df92d8a607d5e18ff
+      internalID: 2100255813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_296
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 474
+        width: 221
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afc4525d37a45508a8736c9ddf63fd
+      internalID: -1981885166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_297
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 474
+        width: 218
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcdcf97a4d0b4a16b38257f849c25ba
+      internalID: 665312857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_298
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 563
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d63b8b6b60044d28f5036b9033adec
+      internalID: -1383609070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_299
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 478
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795f03f59a4e4bdcae61320f4810486
+      internalID: 1434241852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_300
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 543
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b001c552395ed46df8d8ff9d974c17b1
+      internalID: 928900606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_301
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 474
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f349170b1794ac597a548f51e63578
+      internalID: -1003651680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_302
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 499
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36927e0297ec64841838d297fb75d0a4
+      internalID: -1047505404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_303
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 525
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720eb2a8f6dfd4f62981cf50f5223a13
+      internalID: -135508287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_304
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 525
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8bfc97535d44a3b5563b69f153882
+      internalID: -877652244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_305
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 510
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4222df059933e4c82a8e3463d538daa5
+      internalID: 1428593810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_306
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 175
+        width: 152
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d67eda5230c457d9d55bf7310a8797
+      internalID: -2117512532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_307
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 428
+        width: 142
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b2843c0c264258a3197e434b4e6b3
+      internalID: 301701995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_308
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 460
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1650ac4deffc4bdfa536374a4b31429
+      internalID: -1356142224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_309
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 462
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259dbdd7e4c7466db884f27280e82db
+      internalID: -230463247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_310
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 459
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63884921bbe294a9aa378b65ea590bc4
+      internalID: -784105151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_311
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 454
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d27c15d3673441fa80b1434c642f320
+      internalID: -2104191816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_312
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 404
+        width: 148
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c233e3a892bb443192989d9b1fcd667
+      internalID: -2016474290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_313
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 408
+        width: 149
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708257237b99946dbb7d5440ea9177dd
+      internalID: 145897525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_314
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 453
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712764f39d3c54cd3be5248708731771
+      internalID: 1442513957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_315
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 456
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c554840b58fb47028279a3fe1e3a5e1
+      internalID: 202940456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_316
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 454
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff38f7fc9f124d0cbbf208862ecc2a3
+      internalID: -574199000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_317
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 449
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca8c00bdbb9c40d89f727e466f65904
+      internalID: -592958388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_318
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 310
+        width: 213
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b7a38a8c1f240bda6b4c455d7edffb
+      internalID: -468658750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_319
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 302
+        width: 188
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85176e6f2404e2381e94ca4d595abe
+      internalID: -1448579194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_320
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 302
+        width: 171
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bf1aaaf7e4c4e08b2cf0c5e0d1763d
+      internalID: -1470423254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_321
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 379
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a73dab813e4b2b9256dae3c6c4559
+      internalID: 1850863932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_322
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 435
+        width: 148
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df79caa15a6834271b21e2ffaca61f8e
+      internalID: -549140461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_323
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 428
+        width: 148
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3628060b35dc54e579ad000e8082b0e7
+      internalID: 1641794751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_324
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 431
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9bba8adaaf04d4dba96c1bf3ef55d4
+      internalID: -1263378415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_325
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 423
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829c66783b3a467280679d92f72e7c0
+      internalID: 434882804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_326
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 175
+        width: 162
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1475323c5cf4d4dc69bed92689e3db38
+      internalID: -2056979842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_327
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 175
+        width: 159
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112dc063ebd624ea5829f3ea3ce18696
+      internalID: 1414273625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_328
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 175
+        width: 159
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b19dbf3fd34015a96b83284f6f95d
+      internalID: 1800716676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_329
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 416
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d001021cec4bc406e81a0fcc2daba44c
+      internalID: -1277085341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_330
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 410
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa164f30d7384cc88ce9f214f7ed2d6
+      internalID: 1457466428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_331
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 310
+        width: 23
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac504516a604603bb4ed3d6c9cc33a
+      internalID: -734156593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_332
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 369
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3de6c37b7a64968be21382b93e62f5
+      internalID: -695337777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_333
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 175
+        width: 170
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc22af80930e04c499d60e2001ed1d41
+      internalID: 1098325960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_334
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 175
+        width: 207
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e916b230cab4f2587fe86e12be9964
+      internalID: 1431400777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_335
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 175
+        width: 255
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212eba9452f3c4be5b17f45d2ab6f4b4
+      internalID: -1048907876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_336
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 175
+        width: 264
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582db09e8eabd44a9b2aacf64ec1d6e3
+      internalID: -1213761448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_337
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 175
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ac07cfdcb245f2899725986f87e2e
+      internalID: 1595774282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_338
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 419
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879213cc6a5a5455c9136338ca4dee31
+      internalID: 747399774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_339
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 134
+        width: 208
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b2dc72b2fd4d3e85d242202d123cf
+      internalID: -2099570042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_340
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 134
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c63e75353b64913aa97adccfe2d212
+      internalID: -763900927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_341
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 134
+        width: 180
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752262c525e69466ea0a6bf787e1439b
+      internalID: 461448759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_342
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 134
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97844c37bd74ef1af8f217f0b0edec
+      internalID: 1706431818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_343
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 133
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58567d338e504d0db80d83383d72e4c
+      internalID: -1944611660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_344
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 133
+        width: 148
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22620de09476e4ef485d34e2e91a95a1
+      internalID: -428303063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_345
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 119
+        width: 186
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf3f624352c408ebde2a44c96c659d
+      internalID: 649894877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_346
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 119
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9d1d19694804a6f8ad407fd54d94c8
+      internalID: -975153101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_347
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 124
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d76c9dc895f43578be2abc1218bfeb
+      internalID: -270637161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_348
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 97
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48d06651eee54bc8b4f023b07cebae9
+      internalID: 441318659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_349
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1
+        width: 277
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1a3ec7349e74308a1ccdff03124164
+      internalID: 995710333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_350
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1
+        width: 277
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1025f71e38308414e95e43cc0d4bb8c0
+      internalID: 1816093400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_351
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 276
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36328b41ad284edc87cc3bb8dc60040
+      internalID: -256611684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_352
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 293
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca11daf92d474954a2d21be936fdb45
+      internalID: 1776569901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IngameAtlas2_353
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 0
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d2622b0420a4157aa4b22796a81042
+      internalID: 1076594109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1dc879cd29d74403c95ade15de0ff14b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IngameAtlas2_0: 1928888966
+      IngameAtlas2_1: -1367406752
+      IngameAtlas2_10: -1079155917
+      IngameAtlas2_100: -1054506961
+      IngameAtlas2_101: 84591416
+      IngameAtlas2_102: -1846330457
+      IngameAtlas2_103: 1406669297
+      IngameAtlas2_104: 619476836
+      IngameAtlas2_105: -2014589875
+      IngameAtlas2_106: 275865800
+      IngameAtlas2_107: 1912379157
+      IngameAtlas2_108: 446856662
+      IngameAtlas2_109: 1590045410
+      IngameAtlas2_11: 1600969681
+      IngameAtlas2_110: -1939379270
+      IngameAtlas2_111: 1643479257
+      IngameAtlas2_112: 488234450
+      IngameAtlas2_113: 1913611224
+      IngameAtlas2_114: -858543160
+      IngameAtlas2_115: 2072425241
+      IngameAtlas2_116: -511093532
+      IngameAtlas2_117: 1215690136
+      IngameAtlas2_118: 247734609
+      IngameAtlas2_119: 1879562412
+      IngameAtlas2_12: -562907916
+      IngameAtlas2_120: 2020406500
+      IngameAtlas2_121: 161306594
+      IngameAtlas2_122: 596740984
+      IngameAtlas2_123: -899882270
+      IngameAtlas2_124: 1598738237
+      IngameAtlas2_125: 1592453906
+      IngameAtlas2_126: -1487598093
+      IngameAtlas2_127: -1945283810
+      IngameAtlas2_128: 1240333296
+      IngameAtlas2_129: 2132454667
+      IngameAtlas2_13: -303643377
+      IngameAtlas2_130: 1044462758
+      IngameAtlas2_131: -730256578
+      IngameAtlas2_132: 221416735
+      IngameAtlas2_133: -871651445
+      IngameAtlas2_134: -1634747760
+      IngameAtlas2_135: -811488667
+      IngameAtlas2_136: -14615483
+      IngameAtlas2_137: -400854760
+      IngameAtlas2_138: -997594848
+      IngameAtlas2_139: -792362024
+      IngameAtlas2_14: 1556340073
+      IngameAtlas2_140: 171644600
+      IngameAtlas2_141: 510824613
+      IngameAtlas2_142: 92738267
+      IngameAtlas2_143: 1640953496
+      IngameAtlas2_144: -1913294333
+      IngameAtlas2_145: 1836313535
+      IngameAtlas2_146: 751584031
+      IngameAtlas2_147: 9225484
+      IngameAtlas2_148: -2033334882
+      IngameAtlas2_149: 2111816376
+      IngameAtlas2_15: 253757869
+      IngameAtlas2_150: 1168395049
+      IngameAtlas2_151: 1895576896
+      IngameAtlas2_152: 386825334
+      IngameAtlas2_153: -1901004557
+      IngameAtlas2_154: 1512873797
+      IngameAtlas2_155: -850064653
+      IngameAtlas2_156: -427089253
+      IngameAtlas2_157: 1430127923
+      IngameAtlas2_158: -1242637715
+      IngameAtlas2_159: 1881901086
+      IngameAtlas2_16: -1928584703
+      IngameAtlas2_160: -1660519318
+      IngameAtlas2_161: 479643943
+      IngameAtlas2_162: -1548986448
+      IngameAtlas2_163: 1943928796
+      IngameAtlas2_164: 1229237133
+      IngameAtlas2_165: 1578969021
+      IngameAtlas2_166: 815958817
+      IngameAtlas2_167: -1620987472
+      IngameAtlas2_168: -435915368
+      IngameAtlas2_169: 1058785293
+      IngameAtlas2_17: 1796140530
+      IngameAtlas2_170: 2079643278
+      IngameAtlas2_171: -1053243224
+      IngameAtlas2_172: 591727223
+      IngameAtlas2_173: -1062881916
+      IngameAtlas2_174: -1581245939
+      IngameAtlas2_175: 304963592
+      IngameAtlas2_176: -200292240
+      IngameAtlas2_177: 24391064
+      IngameAtlas2_178: -1186045812
+      IngameAtlas2_179: 2032230302
+      IngameAtlas2_18: 19927481
+      IngameAtlas2_180: 577749775
+      IngameAtlas2_181: 1803070202
+      IngameAtlas2_182: -570014390
+      IngameAtlas2_183: 1234937005
+      IngameAtlas2_184: -1833804894
+      IngameAtlas2_185: 339937932
+      IngameAtlas2_186: 420259683
+      IngameAtlas2_187: 433621651
+      IngameAtlas2_188: 1175561500
+      IngameAtlas2_189: -296519890
+      IngameAtlas2_19: 1092739106
+      IngameAtlas2_190: 290952160
+      IngameAtlas2_191: 1105973993
+      IngameAtlas2_192: 442883993
+      IngameAtlas2_193: -25865341
+      IngameAtlas2_194: 1157141255
+      IngameAtlas2_195: -2044866070
+      IngameAtlas2_196: 1301917515
+      IngameAtlas2_197: -679720437
+      IngameAtlas2_198: 866314542
+      IngameAtlas2_199: -800803713
+      IngameAtlas2_2: 736952773
+      IngameAtlas2_20: 516351374
+      IngameAtlas2_200: 511061319
+      IngameAtlas2_201: -274026478
+      IngameAtlas2_202: -1491050073
+      IngameAtlas2_203: 194746738
+      IngameAtlas2_204: -2042235792
+      IngameAtlas2_205: -839959954
+      IngameAtlas2_206: 1054926873
+      IngameAtlas2_207: 1787827632
+      IngameAtlas2_208: 125781118
+      IngameAtlas2_209: 1054414613
+      IngameAtlas2_21: -222469748
+      IngameAtlas2_210: 2049033719
+      IngameAtlas2_211: -365499691
+      IngameAtlas2_212: 1829018631
+      IngameAtlas2_213: -193628531
+      IngameAtlas2_214: 30534455
+      IngameAtlas2_215: 1545355802
+      IngameAtlas2_216: -1125959357
+      IngameAtlas2_217: 1131908226
+      IngameAtlas2_218: 838143690
+      IngameAtlas2_219: 923530882
+      IngameAtlas2_22: -1936722551
+      IngameAtlas2_220: -396896581
+      IngameAtlas2_221: -864721863
+      IngameAtlas2_222: 1133860412
+      IngameAtlas2_223: -389977879
+      IngameAtlas2_224: 1214940814
+      IngameAtlas2_225: -1564522783
+      IngameAtlas2_226: 1002480557
+      IngameAtlas2_227: 1159126549
+      IngameAtlas2_228: -401790099
+      IngameAtlas2_229: 1731784646
+      IngameAtlas2_23: -1848216802
+      IngameAtlas2_230: -2022847199
+      IngameAtlas2_231: -1102106748
+      IngameAtlas2_232: 661749594
+      IngameAtlas2_233: -1579145937
+      IngameAtlas2_234: -1840533794
+      IngameAtlas2_235: 1287632996
+      IngameAtlas2_236: 1184653510
+      IngameAtlas2_237: -650371445
+      IngameAtlas2_238: -155022060
+      IngameAtlas2_239: 320617916
+      IngameAtlas2_24: -708722147
+      IngameAtlas2_240: 501310114
+      IngameAtlas2_241: -916129082
+      IngameAtlas2_242: -1476132863
+      IngameAtlas2_243: 6643809
+      IngameAtlas2_244: -581068647
+      IngameAtlas2_245: -1373512446
+      IngameAtlas2_246: -1669032318
+      IngameAtlas2_247: 2039298791
+      IngameAtlas2_248: -1966489113
+      IngameAtlas2_249: -539934668
+      IngameAtlas2_25: -1306099542
+      IngameAtlas2_250: 1777388025
+      IngameAtlas2_251: 61101795
+      IngameAtlas2_252: 866727154
+      IngameAtlas2_253: 1797864664
+      IngameAtlas2_254: 437603719
+      IngameAtlas2_255: -645353239
+      IngameAtlas2_256: 863608484
+      IngameAtlas2_257: 771791716
+      IngameAtlas2_258: -1860618138
+      IngameAtlas2_259: 551934237
+      IngameAtlas2_26: -5757325
+      IngameAtlas2_260: -876057367
+      IngameAtlas2_261: 1133427001
+      IngameAtlas2_262: -1873810273
+      IngameAtlas2_263: -1489839434
+      IngameAtlas2_264: -1459192893
+      IngameAtlas2_265: -1364251079
+      IngameAtlas2_266: 419985757
+      IngameAtlas2_267: 2097668311
+      IngameAtlas2_268: -417715536
+      IngameAtlas2_269: 1058800149
+      IngameAtlas2_27: -1919824914
+      IngameAtlas2_270: 1386010009
+      IngameAtlas2_271: -1311870875
+      IngameAtlas2_272: 1516075512
+      IngameAtlas2_273: 303760218
+      IngameAtlas2_274: -1398302431
+      IngameAtlas2_275: 1419677478
+      IngameAtlas2_276: 1608318816
+      IngameAtlas2_277: -414523126
+      IngameAtlas2_278: -230644608
+      IngameAtlas2_279: -2141093146
+      IngameAtlas2_28: -1949362907
+      IngameAtlas2_280: -1981926799
+      IngameAtlas2_281: -1383815788
+      IngameAtlas2_282: 1801811846
+      IngameAtlas2_283: -1299706282
+      IngameAtlas2_284: 1977345795
+      IngameAtlas2_285: -896504527
+      IngameAtlas2_286: -1025733825
+      IngameAtlas2_287: 1620522496
+      IngameAtlas2_288: 1539305202
+      IngameAtlas2_289: -482883868
+      IngameAtlas2_29: 95172816
+      IngameAtlas2_290: 179522762
+      IngameAtlas2_291: -1454745732
+      IngameAtlas2_292: -1444944002
+      IngameAtlas2_293: -503918415
+      IngameAtlas2_294: -1996974386
+      IngameAtlas2_295: 2100255813
+      IngameAtlas2_296: -1981885166
+      IngameAtlas2_297: 665312857
+      IngameAtlas2_298: -1383609070
+      IngameAtlas2_299: 1434241852
+      IngameAtlas2_3: 111993516
+      IngameAtlas2_30: -1539212055
+      IngameAtlas2_300: 928900606
+      IngameAtlas2_301: -1003651680
+      IngameAtlas2_302: -1047505404
+      IngameAtlas2_303: -135508287
+      IngameAtlas2_304: -877652244
+      IngameAtlas2_305: 1428593810
+      IngameAtlas2_306: -2117512532
+      IngameAtlas2_307: 301701995
+      IngameAtlas2_308: -1356142224
+      IngameAtlas2_309: -230463247
+      IngameAtlas2_31: -2146060641
+      IngameAtlas2_310: -784105151
+      IngameAtlas2_311: -2104191816
+      IngameAtlas2_312: -2016474290
+      IngameAtlas2_313: 145897525
+      IngameAtlas2_314: 1442513957
+      IngameAtlas2_315: 202940456
+      IngameAtlas2_316: -574199000
+      IngameAtlas2_317: -592958388
+      IngameAtlas2_318: -468658750
+      IngameAtlas2_319: -1448579194
+      IngameAtlas2_32: 1727202267
+      IngameAtlas2_320: -1470423254
+      IngameAtlas2_321: 1850863932
+      IngameAtlas2_322: -549140461
+      IngameAtlas2_323: 1641794751
+      IngameAtlas2_324: -1263378415
+      IngameAtlas2_325: 434882804
+      IngameAtlas2_326: -2056979842
+      IngameAtlas2_327: 1414273625
+      IngameAtlas2_328: 1800716676
+      IngameAtlas2_329: -1277085341
+      IngameAtlas2_33: 1562106070
+      IngameAtlas2_330: 1457466428
+      IngameAtlas2_331: -734156593
+      IngameAtlas2_332: -695337777
+      IngameAtlas2_333: 1098325960
+      IngameAtlas2_334: 1431400777
+      IngameAtlas2_335: -1048907876
+      IngameAtlas2_336: -1213761448
+      IngameAtlas2_337: 1595774282
+      IngameAtlas2_338: 747399774
+      IngameAtlas2_339: -2099570042
+      IngameAtlas2_34: -596368500
+      IngameAtlas2_340: -763900927
+      IngameAtlas2_341: 461448759
+      IngameAtlas2_342: 1706431818
+      IngameAtlas2_343: -1944611660
+      IngameAtlas2_344: -428303063
+      IngameAtlas2_345: 649894877
+      IngameAtlas2_346: -975153101
+      IngameAtlas2_347: -270637161
+      IngameAtlas2_348: 441318659
+      IngameAtlas2_349: 995710333
+      IngameAtlas2_35: 1962945609
+      IngameAtlas2_350: 1816093400
+      IngameAtlas2_351: -256611684
+      IngameAtlas2_352: 1776569901
+      IngameAtlas2_353: 1076594109
+      IngameAtlas2_36: -304016347
+      IngameAtlas2_37: -343993192
+      IngameAtlas2_38: -1967356528
+      IngameAtlas2_39: -1647459328
+      IngameAtlas2_4: 1731627527
+      IngameAtlas2_40: 864244409
+      IngameAtlas2_41: -1856986356
+      IngameAtlas2_42: -921024527
+      IngameAtlas2_43: 241199133
+      IngameAtlas2_44: -21599333
+      IngameAtlas2_45: 1864447804
+      IngameAtlas2_46: 1181067010
+      IngameAtlas2_47: -872111637
+      IngameAtlas2_48: 2124560727
+      IngameAtlas2_49: 1603354656
+      IngameAtlas2_5: 32603413
+      IngameAtlas2_50: 2047908054
+      IngameAtlas2_51: 455207995
+      IngameAtlas2_52: -953062695
+      IngameAtlas2_53: 1837537328
+      IngameAtlas2_54: 945512236
+      IngameAtlas2_55: 1198716931
+      IngameAtlas2_56: -1990613143
+      IngameAtlas2_57: 494227301
+      IngameAtlas2_58: -998553078
+      IngameAtlas2_59: 1377628093
+      IngameAtlas2_6: -1910035318
+      IngameAtlas2_60: -1245679195
+      IngameAtlas2_61: -1266191541
+      IngameAtlas2_62: 1871875952
+      IngameAtlas2_63: 126777050
+      IngameAtlas2_64: 1646427625
+      IngameAtlas2_65: -1924349810
+      IngameAtlas2_66: 1622351799
+      IngameAtlas2_67: -1031002854
+      IngameAtlas2_68: 1747691300
+      IngameAtlas2_69: -1621171224
+      IngameAtlas2_7: 1876826504
+      IngameAtlas2_70: -1614125623
+      IngameAtlas2_71: -2068463925
+      IngameAtlas2_72: -907310537
+      IngameAtlas2_73: -1106746221
+      IngameAtlas2_74: 797873415
+      IngameAtlas2_75: -1776055661
+      IngameAtlas2_76: 711315634
+      IngameAtlas2_77: 1698682345
+      IngameAtlas2_78: 410111096
+      IngameAtlas2_79: -1777134892
+      IngameAtlas2_8: 1450039905
+      IngameAtlas2_80: 1629069761
+      IngameAtlas2_81: -1346895832
+      IngameAtlas2_82: 1385767709
+      IngameAtlas2_83: -399859780
+      IngameAtlas2_84: -43575812
+      IngameAtlas2_85: -419661773
+      IngameAtlas2_86: -1158829552
+      IngameAtlas2_87: -1609454092
+      IngameAtlas2_88: 972148830
+      IngameAtlas2_89: -170260328
+      IngameAtlas2_9: 306875153
+      IngameAtlas2_90: -1945857715
+      IngameAtlas2_91: 1533416956
+      IngameAtlas2_92: 210825675
+      IngameAtlas2_93: -2022041140
+      IngameAtlas2_94: 1893930941
+      IngameAtlas2_95: -1263296652
+      IngameAtlas2_96: 577199153
+      IngameAtlas2_97: 1281543044
+      IngameAtlas2_98: 860886579
+      IngameAtlas2_99: -523367571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
