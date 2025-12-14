@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3916418575205396368}
   - component: {fileID: 5895513145902400724}
-  - component: {fileID: 4758306545205453465}
+  - component: {fileID: 461812646348886834}
   - component: {fileID: 3378958098684525958}
   m_Layer: 0
   m_Name: Pig
@@ -62,8 +62,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &4758306545205453465
-CircleCollider2D:
+--- !u!60 &461812646348886834
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -96,8 +96,36 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.00041231513, y: -0.025633447}
-  m_Radius: 0.26779336
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.30371347, y: 0.09767654}
+      - {x: 0.2255231, y: 0.18108708}
+      - {x: 0.12912303, y: 0.22759654}
+      - {x: -0.0039610863, y: 0.2493717}
+      - {x: -0.12370251, y: 0.22618204}
+      - {x: -0.23845813, y: 0.1558678}
+      - {x: -0.31024516, y: 0.056791876}
+      - {x: -0.34104723, y: -0.051443025}
+      - {x: -0.32452983, y: -0.15063813}
+      - {x: -0.2765621, y: -0.22204295}
+      - {x: -0.20476747, y: -0.27722797}
+      - {x: -0.11839497, y: -0.32180193}
+      - {x: 0.047267422, y: -0.33013758}
+      - {x: 0.20553938, y: -0.29011294}
+      - {x: 0.29644772, y: -0.22450122}
+      - {x: 0.336904, y: -0.164892}
+      - {x: 0.34302783, y: -0.0019291267}
+  m_UseDelaunayMesh: 1
 --- !u!114 &3378958098684525958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -144,7 +172,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.3, y: 1.3, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3916418575205396368}
@@ -198,7 +226,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1562106070, guid: 258d685c7ab11e844b74a63132561e0c, type: 3}
+  m_Sprite: {fileID: -12617238, guid: e3ed2df94ab0eeb042e6d0403b757ed5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
