@@ -787,6 +787,14 @@ PrefabInstance:
       propertyPath: 'partPrefabs.Array.data[4]'
       value: 
       objectReference: {fileID: 3850174619980520647, guid: 27ab584f28e054771bf5a11b2ba73b57, type: 3}
+    - target: {fileID: 4968898279616807532, guid: f2d4c324adf7e4e80bb6f72744d37f9b, type: 3}
+      propertyPath: m_ChildScaleWidth
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4968898279616807532, guid: f2d4c324adf7e4e80bb6f72744d37f9b, type: 3}
+      propertyPath: m_ChildScaleHeight
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5581881835001119030, guid: f2d4c324adf7e4e80bb6f72744d37f9b, type: 3}
       propertyPath: m_Name
       value: ConstructionUI
