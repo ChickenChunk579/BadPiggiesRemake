@@ -240,8 +240,9 @@ MonoBehaviour:
   mustBePlacedInFrame: 0
   cantBePlacedInFrame: 1
   role: 2
+  containedPart: {fileID: 0}
+  contraption: {fileID: 0}
   driveForce: 20
-  targetSpeed: 6
   groundMask:
     serializedVersion: 2
     m_Bits: 8

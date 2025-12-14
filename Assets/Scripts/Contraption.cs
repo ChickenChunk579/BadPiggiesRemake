@@ -7,10 +7,6 @@ public class Contraption : MonoBehaviour
     
     public float GetEnginePower()
     {
-        if (enginePowerCache != -1)
-        {
-            return enginePowerCache;
-        }
         float power = 0;
         for (int i = 0; i < transform.childCount; i++)
         {
