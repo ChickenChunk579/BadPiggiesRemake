@@ -44,7 +44,7 @@ public class MotorWheel : BasePart
         if (speed < contraption.GetEnginePower() * 4)
         {
             rb.AddForceAtPosition(
-                tangent * 50.0f * contraption.GetEnginePower(),
+                50.0f * contraption.GetEnginePower() * tangent,
                 hit.point,
                 ForceMode2D.Force
             );

@@ -11,6 +11,9 @@ public struct PartInGrid
 
 public class ConstructionUI : MonoBehaviour
 {
+    public UnityEvent OnEndConstruction;
+    public UnityEvent OnStartConstruction;
+
     public GameObject gridPrefab;
     public GameObject currentPartPrefab;
     public Transform contraptionParent;
@@ -182,6 +185,9 @@ public class ConstructionUI : MonoBehaviour
 
     public void Play()
     {
+        if (contraptionParent.GetComponent<Contraption>().started == true)
+            return;
+
         gridCells.ForEach(cell => cell.SetActive(false));
 
         foreach (var kvp in partsDict)
@@ -215,11 +221,15 @@ public class ConstructionUI : MonoBehaviour
         }
 
         contraptionParent.GetComponent<Contraption>().started = true;
+        OnEndConstruction.Invoke();
         CreateSprings();
     }
 
     public void DestroyAll()
     {
+        if (contraptionParent.GetComponent<Contraption>().started == true)
+            return;
+
         foreach (var kvp in partsDict)
             Destroy(kvp.Value.part);
 
@@ -235,5 +245,7 @@ public class ConstructionUI : MonoBehaviour
             Destroy(contraptionParent.GetChild(i).gameObject);
 
         contraptionParent.GetComponent<Contraption>().started = false;
+
+        OnStartConstruction.Invoke();
     }
 }

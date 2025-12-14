@@ -16,13 +16,13 @@ public class CameraController : MonoBehaviour
     {
         if (contraptionParent.GetComponent<Contraption>().started)
         {
-            Vector3 pos = Vector3.MoveTowards(transform.position, contraptionParent.GetChild(0).position, 30 * Time.deltaTime);
+            Vector3 pos = Vector3.Lerp(transform.position, contraptionParent.GetChild(0).position, 30 * Time.deltaTime);
             pos.z = transform.position.z;
             transform.position = pos;
         }
         else
         {
-            transform.position = basePos;
+            transform.position = Vector3.Lerp(transform.position, basePos, 10 * Time.deltaTime);
         }
         
     }
