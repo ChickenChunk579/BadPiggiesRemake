@@ -11,16 +11,25 @@ public struct PartInGrid
 
 public class ConstructionUI : MonoBehaviour
 {
+    [Header("Events")]
     public UnityEvent OnEndConstruction;
     public UnityEvent OnStartConstruction;
 
+    [Header("Object References")]
     public GameObject gridPrefab;
     public GameObject currentPartPrefab;
     public Transform contraptionParent;
+    
+    [Header("Settings")]
     public int gridWidth = 16;
     public int gridHeight = 8;
     public float spacing = 1.05f;
     public int selectedPart = 0;
+
+    [Header("Joint Settings")] 
+    public float breakForce = 500;
+    public float maxForce = 1500;
+    public float maxTorque = 1500;
 
     private Dictionary<Vector2Int, PartInGrid> partsDict = new Dictionary<Vector2Int, PartInGrid>();
     private List<GameObject> gridCells = new List<GameObject>();
@@ -156,19 +165,14 @@ public class ConstructionUI : MonoBehaviour
     {
         if (!partsDict.TryGetValue(neighborPos, out PartInGrid neighbor))
             return;
-
-        /*FixedJoint2D joint = from.part.AddComponent<FixedJoint2D>();
-        joint.breakForce = 250;
-        joint.breakTorque = float.PositiveInfinity;
-        joint.enableCollision = true;
-        joint.connectedBody = neighbor.part.GetComponent<Rigidbody2D>();*/
-
+        
         RelativeJoint2D j = from.part.AddComponent<RelativeJoint2D>();
         j.connectedBody = neighbor.part.GetComponent<Rigidbody2D>();
         j.autoConfigureOffset = true;
-        //j.breakForce = 100;
-        j.maxForce = 5000;
-        j.maxTorque = Mathf.Infinity;
+        j.breakForce = breakForce;
+        j.maxForce = maxForce;
+        j.maxTorque = maxTorque;
+        j.enableCollision = false;
     }
 
     private void Update()
@@ -229,9 +233,10 @@ public class ConstructionUI : MonoBehaviour
                 j.connectedBody = rb;
                 j.autoConfigureOffset = false;
                 j.autoConfigureOffset = true;
-                //j.breakForce = 100;
-                j.maxForce = 5000;
-                j.maxTorque = Mathf.Infinity;
+                j.breakForce = breakForce;
+                j.maxForce = maxForce;
+                j.maxTorque = maxTorque;
+                j.enableCollision = false;
             }
         }
 
