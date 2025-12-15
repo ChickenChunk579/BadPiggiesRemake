@@ -157,11 +157,18 @@ public class ConstructionUI : MonoBehaviour
         if (!partsDict.TryGetValue(neighborPos, out PartInGrid neighbor))
             return;
 
-        FixedJoint2D joint = from.part.AddComponent<FixedJoint2D>();
+        /*FixedJoint2D joint = from.part.AddComponent<FixedJoint2D>();
         joint.breakForce = 250;
         joint.breakTorque = float.PositiveInfinity;
         joint.enableCollision = true;
-        joint.connectedBody = neighbor.part.GetComponent<Rigidbody2D>();
+        joint.connectedBody = neighbor.part.GetComponent<Rigidbody2D>();*/
+
+        RelativeJoint2D j = from.part.AddComponent<RelativeJoint2D>();
+        j.connectedBody = neighbor.part.GetComponent<Rigidbody2D>();
+        j.autoConfigureOffset = true;
+        //j.breakForce = 100;
+        j.maxForce = 5000;
+        j.maxTorque = Mathf.Infinity;
     }
 
     private void Update()
@@ -212,11 +219,19 @@ public class ConstructionUI : MonoBehaviour
                 contained.transform.SetParent(contraptionParent);
                 contained.transform.position = bp.transform.position;
 
-                FixedJoint2D joint = contained.gameObject.AddComponent<FixedJoint2D>();
+                /*FixedJoint2D joint = contained.gameObject.AddComponent<FixedJoint2D>();
                 joint.connectedBody = rb;
                 joint.breakForce = 1000;
                 joint.breakTorque = float.PositiveInfinity;
-                joint.enableCollision = false;
+                joint.enableCollision = false;*/
+
+                RelativeJoint2D j = contained.gameObject.AddComponent<RelativeJoint2D>();
+                j.connectedBody = rb;
+                j.autoConfigureOffset = false;
+                j.autoConfigureOffset = true;
+                //j.breakForce = 100;
+                j.maxForce = 5000;
+                j.maxTorque = Mathf.Infinity;
             }
         }
 
@@ -227,6 +242,15 @@ public class ConstructionUI : MonoBehaviour
 
     public void DestroyAll()
     {
+        foreach (var kvp in partsDict)
+        {
+            var basePart = kvp.Value.part.GetComponent<BasePart>();
+            if (basePart.HasContainedPart)
+            {
+                Debug.Log(basePart.gameObject.name);
+                Destroy(kvp.Value.part.GetComponent<BasePart>().containedPart.gameObject);
+            }
+        }
         if (contraptionParent.GetComponent<Contraption>().started == true)
             return;
 
@@ -238,13 +262,10 @@ public class ConstructionUI : MonoBehaviour
 
     public void Restart()
     {
-        DestroyAll();
         gridCells.ForEach(cell => cell.SetActive(true));
-
-        for (int i = contraptionParent.childCount - 1; i >= 0; i--)
-            Destroy(contraptionParent.GetChild(i).gameObject);
-
         contraptionParent.GetComponent<Contraption>().started = false;
+
+        DestroyAll();
 
         OnStartConstruction.Invoke();
     }
